@@ -1,0 +1,9 @@
+.cursos {
+  height: 90vh;
+  background-color: white;
+}
+
+.cursos img {
+  width: 700px;
+  height: 420px;
+}
